@@ -1,0 +1,57 @@
+body {                              /*фон*/
+    background-color: #4E6C50;
+    
+}
+header{
+    background-image: url("pic.png");
+    background-size: 250px;
+    background-repeat:no-repeat;
+    background-color: #324634;
+    background-position: center;
+    background-position: left;
+    width: 100%;
+    color: #F0EBCE;
+    font-family: "Mistral";
+    font-weight: lighter;
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+h2 {                                /*буквы2*/
+    color: #F0EBCE;
+    
+}
+h3 {                                /*буквы3*/
+    color: #F0EBCE;
+    font-size: 25px;
+    line-height: 15px;
+    
+}
+h4 {                                /*буквы4*/
+    color: #F0EBCE;
+    
+}
+ul {                                /*списки*/
+    color: #F0EBCE; 
+    font-size: 18px;
+}
+A {                                 /*ссылки*/
+    color: #EDDBC0;
+    font-size: 18px;               
+   }
+A:visited {                         /*посещенные ссылки */
+    color: #cecece;
+    font-size: 18px;               
+}
+A:active {                          /*активные ссылки */
+    color: #092c09; 
+    font-size: 18px;              
+}
+div {
+    color: #F0EBCE;
+    line-height: 2.5;
+}
+details {
+    color: #F0EBCE;
+}
