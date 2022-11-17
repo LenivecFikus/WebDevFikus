@@ -1,0 +1,71 @@
+h1{
+    font-family: 'Comfortaa', cursive;
+    color: black;
+    size: 3rem;
+    line-height: 1.5;
+}
+
+h2{
+    font-family: 'Montserrat-Bold';
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+body{
+    font-family: 'Comfortaa', cursive;
+}
+
+nav.navbar>a {
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu';
+    font-size: 2rem;
+    font-weight: 'bold';
+}
+  
+.navbar {
+    padding-bottom: 4.5rem;
+    padding-left: 3rem;
+}
+  
+.nav-item {
+    padding: 0px 18px;
+}
+  
+.nav-link {
+    padding-left: 50%;
+    font-family: 'Montserrat-Light';
+    font-size: 2rem;
+}
+
+.download-button{
+    margin-top: 5%;
+    margin-right: 3%;
+    margin-left: 5%;
+    margin-bottom: 0%;
+}
+
+.title-image{
+    width: 60%;
+    rotate: 25deg;
+}
+
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+    position: relative;
+}
+
+.testimonial-image{
+    width: 10%;
+    border-radius: 50%;
+    margin: 20px;
+}
+
